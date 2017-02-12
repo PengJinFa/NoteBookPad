@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>png图片/1.png</file>
+        <file>png图片/2.png</file>
+        <file>png图片/3.png</file>
+        <file>png图片/4.png</file>
+        <file>png图片/5.png</file>
+        <file>png图片/7.png</file>
+        <file>png图片/8.png</file>
+        <file>png图片/9.png</file>
+        <file>png图片/10.png</file>
+        <file>png图片/11.png</file>
+        <file>png图片/12.png</file>
+        <file>png图片/a.jpg</file>
+        <file>png图片/b.jpg</file>
+    </qresource>
+</RCC>
